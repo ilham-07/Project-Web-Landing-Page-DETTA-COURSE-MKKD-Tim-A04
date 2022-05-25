@@ -1,5 +1,5 @@
-# Project-Web-Landing-Page-DETTA-COURSE-MKKD-Tim-A04
-**DETTA COURSE**
+# Project-Web-Landing-Page-DETTA-COURSES-MKKD-Tim-A04
+**DETTA COURSES**
 
 Detta Courses adalah platform kursus online untuk kaum muda yang ingin mempelajari keterampilan baru dan pengalaman baru yang dibutuhkan di dunia kerja. Kami menawarkan kursus yang komprehensif untuk memudahkan Anda untuk memulai karir baru.
 
